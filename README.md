@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eerinah
 - 👀 I’m interested in blockchain technology and artificial intelligence. 
-- 🌱 I’m currently learning Solidity and Microsoft Azure.
+- 🌱 I’m currently learning Solidity.
 - 📫 How to reach me: email - eerinahaque@gmail.com
 
 <!---
