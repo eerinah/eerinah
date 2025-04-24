@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eerinah
-- 📫 How to reach me: email - eerinahaque@gmail.com
+- 📫 How to reach me: email - eerinathaque@gmail.com
 
 <!---
 eerinah/eerinah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
